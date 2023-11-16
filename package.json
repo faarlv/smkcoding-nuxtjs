@@ -17,6 +17,9 @@
   },
   "dependencies": {
     "@nuxtjs/tailwindcss": "^6.8.0",
-    "@vite-pwa/nuxt": "^0.1.1"
+    "@pinia/nuxt": "^0.5.1",
+    "@vite-pwa/nuxt": "^0.1.1",
+    "pinia": "^2.1.7",
+    "typescript": "^4.4.4"
   }
 }
